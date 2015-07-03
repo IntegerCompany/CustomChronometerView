@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="cv">
+        <attr name="timeRange" format="integer"/>
+        <attr name="fadingSpeed" format="integer"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="fillingColor" format="color"/>
+
+    </declare-styleable>
+</resources>
