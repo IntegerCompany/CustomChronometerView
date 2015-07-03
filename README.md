@@ -1,4 +1,4 @@
-<h4>Chronometer View<h1/>
+<h4>Chronometer View<h4/>
 
 XML attributes:<br/>
 timeRange - how many time user must wait;<br/>
